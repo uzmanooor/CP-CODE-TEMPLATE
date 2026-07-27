@@ -27,10 +27,7 @@ I use this template for solving problems on platforms like:
 1. Clone the repository.
 2. Open `Main.java`.
 3. Write the solution inside `solve()`.
-4. Uncomment the test case line if the problem has multiple test cases.
 
 ```java
 // t = nextInt();
 ```
-
-Happy Coding!
